@@ -1,0 +1,40 @@
+Release 2.2 - 28 Sept 2015
+--------------------------
+* Added support for LLDP "Chassis ID TLV (1)"
+* Added support for LLDP "Port ID TLV (2)"
+
+
+Release 2.1 - 10 Apr 2014
+-------------------------
+* Fixed LLDP detection derp!
+* Minor code clean ups
+
+
+Release 2.0 - 21 Mar 2014
+-------------------------
+* Updated to work with Windows 8.x / 2012 Rx
+* Display NIC IP address upon selection of network card
+* Display NIC MAC address upon selection of network card
+* Also save NIC MAC and IP Address to log file
+* All new help dialogue
+* Added donate button - FEEL FREE TO USE!
+
+
+Release v1.0 - 23 Apr 2013
+--------------------------
+* RELEASE VERSION!
+* Added Help button help info
+* Switchname GUI field size adjustment
+
+
+Release v0.2 - 19 Mar 2013
+--------------------------
+* Fix Cisco switch model handling bug
+* Remove logo in bottom left had side of GUI
+* Minor code clean ups
+
+
+Release v0.1 - 18 Mar 2013
+--------------------------
+* Initial Release
+* Based on WinCDP - https://github.com/chall32/WinCDP
